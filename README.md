@@ -1,4 +1,4 @@
-**BTC Address**|**Hate Figure**|**Learn About This Hate Figure**
+**BTC Address**|**Hate Figure**|**About This Figure**
 :-----:|:-----:|:-----:
 1NpQaXqmCBji6gfX8UgaQEmEstvVY7U32C|8chan|bitly/3NJWJRm
 1KiJD44WeWKaDb4Newr7bDXadtGn21ACqY|8kun|bitly/3NMRn7P
