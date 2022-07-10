@@ -2,7 +2,6 @@
 :-----:|:-----:|:-----:
 1NpQaXqmCBji6gfX8UgaQEmEstvVY7U32C|8chan|https://bitly/3NJWJRm
 1KiJD44WeWKaDb4Newr7bDXadtGn21ACqY|8kun|https://bitly/3NMRn7P
-1KiJD44WeWKaDb4Newr7bDXadtGn21ACqY|8Kun QAnon|https://bitly/3OV2bCg
 37xQhztFMKYnPLqv6YoR61tCHqToCC8eby|Absolute State of Britain podcast|https://bitly/3OQ1zOo
 bc1q0kpk303cljyn62vgve34hcxlztn7zfmh0jgjtf|Alex Jones|https://bitly/3uvYCuf
 bc1q5kx8976cz6k3dhlcyht0znh22gr754uygq8xhl|Alex Jones|https://bitly/3uvYCuf
